@@ -20,7 +20,11 @@ class School
   end
     
   def sort 
-    
+    new_hash = {}
+    @roster.each do |grade, students_in_grade|
+      
+    end
+    new_hash
   end 
   
 end
