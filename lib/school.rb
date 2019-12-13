@@ -23,7 +23,7 @@ class School
     new_hash = {}
     @roster.each do |grade, students_in_grade|
       
-    end
+    end 
     new_hash
   end 
   
